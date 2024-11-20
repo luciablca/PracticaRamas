@@ -6,3 +6,7 @@ cambio develop 3
 cambio feature2 1
 cambio feature2 2
 cambio develop 4
+cambio release 1
+cambio release 2
+cambio main 2
+cambio main 3
